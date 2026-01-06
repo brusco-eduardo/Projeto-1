@@ -35,5 +35,5 @@ Com base em sua remuneração e perfil de investimento, é possível projetar di
 4. Altere quantas vezes for necessário para criar simulações diferentes.
 
 ## Contato
-- Autor: <Eduardo Migliorini Brusco>  
+- Autor: Eduardo Migliorini Brusco
 - Email: <eduardo.brusco@unesp.br>
